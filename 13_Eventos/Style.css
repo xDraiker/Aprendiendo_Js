@@ -1,0 +1,22 @@
+.box{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    background-color: blue;
+}
+
+.w{
+    background-color: white;
+}
+.n{
+    background-color: black;
+}
+.g{
+    background-color: green;
+}
+.r{
+    background-color: red;
+}
+.b{
+    background-color: blue;
+}
