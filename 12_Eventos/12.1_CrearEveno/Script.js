@@ -54,8 +54,8 @@ l.addEventListener('keyup',()=>{
 eventos con raon:
 *click->se dispara al hacer click e el elemento
 *dblclick->se dispara al hacer dobleclick en el elemento
-*mouseenter->Dispara el evento cuando el cursor esa en el area del elemento 
-*mouseleave->Sispara el evento cuando el cursor esta fuera del area del elemento
+*mouseenter->Dispara el evento cuando el cursor esta en el area del elemento 
+*mouseleave->Dispara el evento cuando el cursor esta fuera del area del elemento
 *mousedown->se dspara al precionar encima del elemento
 *mouseup->Se dispara al hacer clic en el elemento
 *mousemove->se dispara cuando el raon se mueve en el area del elemento
